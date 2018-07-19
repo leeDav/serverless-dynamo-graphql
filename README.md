@@ -2,6 +2,7 @@
 Following [this guide from the Serverless website](https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/) on how to use GraphQL with DynamoDb.
 
 # How to install
+0. Install serverless with `yarn add global serverless` or  `npm install -g serverless`
 1. Clone repo.
 2. `yarn` or `npm install`
 3. [Configure your AWS credentials](https://serverless.com/framework/docs/providers/aws/guide/credentials/)
